@@ -26,6 +26,8 @@ https://github.com/user-attachments/assets/c7b9872c-f4ce-4a4e-911a-6ddcf039f871
 
 ### **News**
 
+`[31 Jan 2026]` Accepted by ICRA 26, See you in Vienna.
+
 `[11 Dec 2025]` Released the [DA3-Streaming](https://github.com/ByteDance-Seed/Depth-Anything-3/blob/main/da3_streaming/README.md).
 
 `[04 Sep 2025]` Released the [Pi-Long](https://github.com/DengKaiCQ/Pi-Long).
